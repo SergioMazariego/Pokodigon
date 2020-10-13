@@ -1,0 +1,13 @@
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.exe
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.deps.json
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.runtimeconfig.json
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.runtimeconfig.dev.json
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.dll
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\bin\Debug\netcoreapp3.1\Pokodigon.pdb
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.csprojAssemblyReference.cache
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.AssemblyInfoInputs.cache
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.AssemblyInfo.cs
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.csproj.CoreCompileInputs.cache
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.dll
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.pdb
+C:\Users\Who\Desktop\Kodigo\Pokodigon\Pokodigon\obj\Debug\netcoreapp3.1\Pokodigon.genruntimeconfig.cache
